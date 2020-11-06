@@ -1,0 +1,39 @@
+.body{
+  background-image: url('../img/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  width: 1200px;
+}
+/* .ads{
+    text-align: center;
+    margin: .4vw 0;
+    background: #F4CC70;
+    padding: .4vw;
+  } */
+  
+  .content{
+    margin: .4vw 0;
+    background: lightblue;
+    padding: 10px;
+    margin: auto;
+  }
+  /* .tic-panel{
+    border: solid 2px black;
+    margin: .4vw 0;
+    background: #66A5AD;
+    padding: .4vw;
+  } */
+  
+  .tic-box{
+    border: solid black 1px;
+    background: #6AB187;
+
+  }
+
+  /* .tic-box:hover{
+    background: #20948B;
+  } */
+  /* .container-fluid{
+    border-radius: 50px;
+  } */
